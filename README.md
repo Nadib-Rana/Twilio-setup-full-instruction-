@@ -1,6 +1,6 @@
 
 ---
-# 🎯 Goal
+#                                               Goal
 
 * Create Twilio account
 * Configure billing & phone number
